@@ -1,4 +1,4 @@
-#using fr dummy commit
+#using fr dummy commit fr 2nd time
 = Jenkins Pipeline Maven build demo
 
 [link=https://www.youtube.com/watch?v=HaGeSq-SB9E]
